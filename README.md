@@ -1,4 +1,4 @@
-# 🔄 RecursiFibo – Recursive Fibonacci Solver
+# 🔄 Recursive Fibonacci Solver Naive Memoized Implementation
 
 This project is a Python-based Fibonacci calculator that demonstrates both **naive (pure recursive)** and **eager (memoized recursive)** approaches. It showcases the difference in computational efficiency when solving problems recursively with and without memoization.
 
